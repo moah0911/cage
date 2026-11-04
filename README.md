@@ -8,6 +8,7 @@
 [![SAM 3.1](https://img.shields.io/badge/SAM%203.1-Meta-0467DF?logo=meta&logoColor=white)](https://ai.meta.com/sam3/)
 [![Llama 4](https://img.shields.io/badge/Llama%204-Meta%20Model%20API-0467DF?logo=meta&logoColor=white)](https://api.meta.ai)
 [![pytest](https://img.shields.io/badge/Tests-pytest-0A9EDC?logo=pytest&logoColor=white)](https://docs.pytest.org)
+[![Meta AI Developer Hackathon](https://img.shields.io/badge/Built%20for-Meta%20AI%20Hackathon-0084FF?logo=meta&logoColor=white)](https://cerebralvalley.ai/e/meta-ai-developer-hackathon)
 <html>
 
 <a href="https://deepwiki.com/moah0911/cage"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki"></a>
